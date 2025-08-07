@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![snake gif](https://github.com/rohancyriac029/rohancyriac029blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/rohancyriac029/rohancyriac029/blob/output/github-snake-dark.svg)
 <!--
 **rohancyriac029/rohancyriac029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
